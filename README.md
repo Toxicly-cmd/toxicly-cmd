@@ -35,8 +35,8 @@
       </p>
     </td>
     <td width="40%" valign="top" align="center">
-       <a href="https://discord.com/users/1356648920389783724">
-        <img src="https://lanyard.cnrad.dev/api/1356648920389783724?theme=dark&bg=0D1117&borderRadius=20px" width="100%" alt="Discord Status" />
+       <a href="https://discord.com/users/7ox4">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="100%" alt="Discord Status" />
       </a>
     </td>
   </tr>
