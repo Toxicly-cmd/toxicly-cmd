@@ -1,72 +1,57 @@
-<p align="center">
-  <img src="./header.svg" width="100%" alt="Animated Header" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=✦+T+O+X+I+C+✦;Backend+Architect;Obsidian+Enthusiast;Building+the+Future" alt="Typing SVG" />
+</div>
 
-<br>
+<br />
 
-<a href="https://github.com/Toxicly-cmd">
-  <img src="https://github.com/Toxicly-cmd.png" align="right" width="220" style="border-radius: 50%; border: 4px solid #BB86FC; box-shadow: 0 0 40px rgba(187, 134, 252, 0.6);" alt="toxic" />
-</a>
-
-<br>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&pause=1000&color=03DAC6&background=0D111700&vCenter=true&width=500&lines=Building+Next-Gen+Systems;Optimizing+Falcon+Engine;Architecting+Elara+Core;Pushing+the+Limits+of+Code" alt="Typing SVG" />
-</p>
-
-<br>
-
-<table width="100%" border="0">
+<table width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-03DAC6?style=for-the-badge&logo=statuspage&logoColor=black" />
-        <img src="https://img.shields.io/badge/VIBE-COFFEE_REQUIRED-BB86FC?style=for-the-badge&logo=coffeescript&logoColor=black" />
-      </p>
+    <td width="50%" valign="top">
       <h3>✦ current mission ✦</h3>
       <p>
-        &nbsp;›&nbsp; scaling <b>Elara's</b> multi-shard gateway<br>
-        &nbsp;›&nbsp; implementing <b>Zero-Trust</b> architecture<br>
-        &nbsp;›&nbsp; crafting <b>pixel-perfect</b> Falcon dashboards
+        <code>></code> scaling <b>Elara's</b> infrastructure<br />
+        <code>></code> exploring <b>go & concurrency</b><br />
+        <code>></code> late nights <b>& complex databases</b>
       </p>
-      <h3>✦ tech arsenal ✦</h3>
+      <h3>✦ currently learning ✦</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=python,go,ts,js,mongodb,redis,docker,git" />
+        <code>></code> advanced <b>system design</b><br />
+        <code>></code> <b>docker & k8s</b> deployment<br />
+        <code>></code> <b>cloud architectures</b>
       </p>
     </td>
-    <td width="40%" valign="top" align="center">
-       <a href="https://discord.com/users/7ox4">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="100%" alt="Discord Status" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>✦ github stats ✦</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Toxicly-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=A9B1D6&icon_color=03DAC6" width="100%" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✦ tech arsenal ✦</h3>
+      <img src="https://skillicons.dev/icons?i=python,go,ts,js,mongodb,redis,docker,git" width="100%" alt="Tech Stack" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ activity ✦</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toxicly-cmd&theme=tokyonight&hide_border=true&background=0D1117&title=BB86FC&text=A9B1D6&sideNums=03DAC6&sideLabels=03DAC6&dates=03DAC6&ring=03DAC6&fire=BB86FC" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-<br>
-
----
-
-<h3 align="center">✦ neural activity ✦</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Toxicly-cmd&theme=tokyonight&bg_color=0D1117&color=BB86FC&line=03DAC6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
-<br>
-
-<h3 align="center">✦ system metrics ✦</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toxicly-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=03DAC6&text_color=E1E1E1" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxicly-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=03DAC6&icon_color=BB86FC&text_color=E1E1E1" width="48%" alt="Langs" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toxicly-cmd&theme=tokyonight&hide_border=true&background=0D1117&ring=BB86FC&fire=03DAC6&currStreakNum=BB86FC" width="100%" alt="Streak" />
-</p>
-
-<br>
+<br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Toxicly-cmd&color=03DAC6&style=for-the-badge&label=CORE+ACCESSES" />
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <h3>✦ connect with me ✦</h3>
+        <a href="https://discord.com/users/7ox4"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Toxicly-cmd&color=BB86FC&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
