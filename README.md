@@ -69,21 +69,21 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toxicly-cmd&theme=tokyonight&hide_border=true&background=0D1117&ring=BB86FC&fire=03DAC6&currStreakNum=BB86FC" width="100%" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toxicly-cmd&theme=tokyonight&hide_border=true&background=0D1117&ring=BB86FC&fire=03DAC6&currStreakNum=BB86FC" width="70%" alt="Streak" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Toxicly-cmd&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Toxicly-cmd&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Toxicly-cmd&theme=tokyonight" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Toxicly-cmd&theme=tokyonight" width="40%" />
 </p>
 
 <br>
 
 <h3 align="center">◈ trophy collection</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Toxicly-cmd&theme=tokyonight&no-bg=true&column=4&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Toxicly-cmd&theme=tokyonight&no-bg=true&column=4&margin-w=10&margin-h=10&rank=SSS,SS,S,A,B" width="80%" alt="Trophies" />
 </p>
 
 <br>
