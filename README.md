@@ -81,13 +81,6 @@
 
 <br>
 
-<h3 align="center">◈ trophy collection</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Toxicly-cmd&theme=tokyonight&no-bg=true&column=4&margin-w=10&margin-h=10&rank=SSS,SS,S,A,B" width="80%" alt="Trophies" />
-</p>
-
-<br>
-
 <div align="center">
   <table width="100%">
     <tr>
@@ -101,6 +94,7 @@
         <b>◈ connectivity</b>
         <p>
           <a href="https://discord.com/users/7ox4"><img src="https://img.shields.io/badge/Discord-7ox4-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a><br>
+          <a href="https://instagram.com/wzz.aryannn"><img src="https://img.shields.io/badge/Instagram-wzz.aryannn-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a><br>
           <img src="https://img.shields.io/badge/Location-Remote-BB86FC?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
         </p>
       </td>
