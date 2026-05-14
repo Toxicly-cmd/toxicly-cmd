@@ -92,8 +92,10 @@
       <td width="50%" align="left" valign="top">
         <b>◈ latest mission</b><br>
         <a href="https://github.com/Toxicly-cmd/crypto-trading-platform">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Toxicly-cmd&repo=crypto-trading-platform&theme=tokyonight&show_owner=true" width="100%" />
-        </a>
+          <img src="https://img.shields.io/badge/Project-Crypto--Trading--Platform-BB86FC?style=for-the-badge&logo=bitcoin&logoColor=white" width="100%" alt="Crypto Project" />
+        </a><br>
+        <code>›</code> building a high-frequency trading bot<br>
+        <code>›</code> integrated with <b>manus api</b>
       </td>
       <td width="50%" align="right" valign="top">
         <b>◈ connectivity</b>
@@ -111,7 +113,7 @@
 
 <div align="center">
   <b>◈ toxic.ly heartbeat</b>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Toxicly-cmd&theme=tokyonight&bg_color=0D1117&color=BB86FC&line=03DAC6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Toxicly-cmd&custom_title=toxicly-cmd%20contribution%20graph&theme=tokyonight&bg_color=0D1117&color=BB86FC&line=03DAC6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
