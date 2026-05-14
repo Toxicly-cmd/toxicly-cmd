@@ -10,6 +10,12 @@
 
 <br><br>
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=16&pause=1000&color=BB86FC&background=0D1117&vCenter=true&width=435&lines=>+booting+Elara+Core...;>+optimizing+gateway+shards;>+deploying+Falcon+UI...;>+system+status:+premium" alt="Typing SVG Elara" />
+</p>
+
+<br>
+
 > *lead architect at **Elara Bot** & backend enthusiast*
 
 <br>
