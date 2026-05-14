@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="./zeon_banner.png" width="100%" alt="Elara Banner" />
-</div>
-
-<br>
-
 <a href="https://github.com/Toxicly-cmd">
   <img src="https://github.com/Toxicly-cmd.png" align="right" width="250" style="border-radius: 20px; box-shadow: 0px 0px 30px rgba(187, 134, 252, 0.4);" alt="toxic" />
 </a>
