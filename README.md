@@ -28,7 +28,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>✦ github stats ✦</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=toxicly-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=A9B1D6&icon_color=03DAC6" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Toxicly-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=A9B1D6&icon_color=03DAC6" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
@@ -38,7 +38,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>✦ activity ✦</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=toxicly-cmd&theme=tokyonight&hide_border=true&background=0D1117&title=BB86FC&text=A9B1D6&sideNums=03DAC6&sideLabels=03DAC6&dates=03DAC6&ring=03DAC6&fire=BB86FC" width="100%" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toxicly-cmd&theme=tokyonight&hide_border=true&background=0D1117&title=BB86FC&text=A9B1D6&sideNums=03DAC6&sideLabels=03DAC6&dates=03DAC6&ring=03DAC6&fire=BB86FC" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -50,9 +50,7 @@
     <tr>
       <td align="center">
         <h3>✦ connect with me ✦</h3>
-        <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-        <a href="https://1xylen.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-        <a href="https://www.zeonbot.xyz"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=ghost&logoColor=white" /></a>
+        <a href="https://discord.com/users/7ox4"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
       </td>
     </tr>
   </table>
@@ -61,5 +59,5 @@
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=toxicly-cmd&color=BB86FC&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Toxicly-cmd&color=BB86FC&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
