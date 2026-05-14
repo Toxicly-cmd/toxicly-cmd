@@ -1,10 +1,10 @@
 <a href="https://github.com/Toxicly-cmd">
-  <img src="https://github.com/Toxicly-cmd.png" align="right" width="220" style="border-radius: 20px; box-shadow: 0px 0px 30px rgba(187, 134, 252, 0.4);" alt="toxic" />
+  <img src="https://github.com/Toxicly-cmd.png" align="right" width="220" style="border-radius: 50%; border: 4px solid #BB86FC; box-shadow: 0px 0px 40px rgba(187, 134, 252, 0.4);" alt="toxic" />
 </a>
 
 <br>
 
-<span style="font-size: 38px; font-weight: bold; background: linear-gradient(135deg, #BB86FC 0%, #03DAC6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+<span style="font-size: 42px; font-weight: bold; background: linear-gradient(135deg, #BB86FC 0%, #03DAC6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
   hi, i'm toxic . ✦
 </span>
 
@@ -20,39 +20,41 @@
 
 <br>
 
-<b>current focus</b>
+<b>◈ current focus</b>
 
-&nbsp;›&nbsp; scaling **Elara's** global infrastructure<br>
-&nbsp;›&nbsp; designing **Falcon-style** web dashboards<br>
-&nbsp;›&nbsp; late nights **& high-concurrency systems**
-
-<br>
-
-<b>currently learning</b>
-
-&nbsp;›&nbsp; advanced **distributed systems**<br>
-&nbsp;›&nbsp; **kubernetes** cluster management<br>
-&nbsp;›&nbsp; **rust** for low-latency modules
+&nbsp;&nbsp; ⌬ scaling **Elara's** global infrastructure<br>
+&nbsp;&nbsp; ⌬ designing **Falcon-style** web dashboards<br>
+&nbsp;&nbsp; ⌬ late nights **& high-concurrency systems**
 
 <br>
 
-<b>workspace & tools</b>
+<b>◈ currently learning</b>
 
-&nbsp;›&nbsp; os: <b>macOS / zsh</b><br>
-&nbsp;›&nbsp; editor: <b>vs code</b><br>
-&nbsp;›&nbsp; theme: <b>obsidian / elara</b>
+&nbsp;&nbsp; ⌬ advanced **distributed systems**<br>
+&nbsp;&nbsp; ⌬ **kubernetes** cluster management<br>
+&nbsp;&nbsp; ⌬ **rust** for low-latency modules
+
+<br>
+
+<b>◈ workspace & tools</b>
+
+&nbsp;&nbsp; ⌬ os: <b>macOS / zsh</b><br>
+&nbsp;&nbsp; ⌬ editor: <b>vs code</b><br>
+&nbsp;&nbsp; ⌬ theme: <b>obsidian / elara</b>
 
 <br>
 
 <br clear="all">
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BB86FC&height=60&section=footer" width="100%" />
+</p>
 
 <b>technologies & tools</b>
 <br><br>
 
 <details open>
-  <summary><b>&nbsp;›&nbsp; backend & architecture</b></summary>
+  <summary><b>◈ backend & architecture</b></summary>
   <br>
   <p align="left">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -65,8 +67,6 @@
 </details>
 
 <br>
-
----
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toxicly-cmd&theme=tokyonight&hide_border=true&background=0D1117&ring=BB86FC&fire=03DAC6&currStreakNum=BB86FC" width="100%" alt="Streak" />
