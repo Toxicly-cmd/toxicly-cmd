@@ -68,16 +68,21 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toxicly-cmd&theme=tokyonight&hide_border=true&background=0D1117&ring=BB86FC&fire=03DAC6&currStreakNum=BB86FC" width="70%" alt="Streak" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Toxicly-cmd&theme=tokyonight" width="40%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Toxicly-cmd&theme=tokyonight" width="40%" />
-</p>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toxicly-cmd&theme=tokyonight&hide_border=true&background=0D1117&ring=BB86FC&fire=03DAC6&currStreakNum=BB86FC" width="100%" />
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Toxicly-cmd&theme=tokyonight" width="100%" />
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Toxicly-cmd&theme=tokyonight" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
