@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=✦+T+O+X+I+C+✦;Backend+Architect;Obsidian+Enthusiast;Building+the+Future" alt="Typing SVG" />
-</div>
-
-<br />
-
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
