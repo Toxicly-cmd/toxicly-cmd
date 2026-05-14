@@ -74,7 +74,44 @@
 
 <br>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Toxicly-cmd&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Toxicly-cmd&theme=tokyonight" width="48%" />
+</p>
+
+<br>
+
+<h3 align="center">◈ trophy collection</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Toxicly-cmd&theme=tokyonight&no-bg=true&column=4&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
+</p>
+
+<br>
+
 <div align="center">
-  <h3>✦ connect with me ✦</h3>
-  <a href="https://discord.com/users/7ox4"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <table width="100%">
+    <tr>
+      <td align="left">
+        <b>◈ system log</b>
+        <p>
+          <code>[OK]</code> gateway initialized<br>
+          <code>[OK]</code> shards operational<br>
+          <code>[OK]</code> falcon engine: peak performance
+        </p>
+      </td>
+      <td align="right">
+        <b>◈ connectivity</b>
+        <p>
+          <a href="https://discord.com/users/7ox4"><img src="https://img.shields.io/badge/Discord-7ox4-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a><br>
+          <img src="https://img.shields.io/badge/Location-Remote-BB86FC?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Toxicly-cmd&color=BB86FC&style=flat-square&label=CORE+ACCESSES" alt="Profile Views" />
 </div>
