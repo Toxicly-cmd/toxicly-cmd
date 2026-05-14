@@ -31,12 +31,12 @@
       </p>
       <h3>✦ tech arsenal ✦</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=python,go,ts,nodejs,mongodb,redis,docker,kubernetes,aws,cloudflare,git,vscode" />
+        <img src="https://skillicons.dev/icons?i=python,go,ts,js,mongodb,redis,docker,git" />
       </p>
     </td>
     <td width="40%" valign="top" align="center">
-       <a href="https://discord.com/users/7ox4">
-        <img src="https://lanyard.cnrad.dev/api/7ox4?theme=dark&bg=0D1117&borderRadius=20px" width="100%" alt="Discord Status" />
+       <a href="https://discord.com/users/1356648920389783724">
+        <img src="https://lanyard.cnrad.dev/api/1356648920389783724?theme=dark&bg=0D1117&borderRadius=20px" width="100%" alt="Discord Status" />
       </a>
     </td>
   </tr>
@@ -55,20 +55,14 @@
 
 <h3 align="center">✦ system metrics ✦</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toxicly-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=03DAC6&text_color=E1E1E1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxicly-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=03DAC6&icon_color=BB86FC&text_color=E1E1E1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Toxicly-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=03DAC6&text_color=E1E1E1" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxicly-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=03DAC6&icon_color=BB86FC&text_color=E1E1E1" width="48%" alt="Langs" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toxicly-cmd&theme=tokyonight&hide_border=true&background=0D1117&ring=BB86FC&fire=03DAC6&currStreakNum=BB86FC" width="100%" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Toxicly-cmd/Toxicly-cmd/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Toxicly-cmd&theme=tokyonight&hide_border=true&background=0D1117&ring=BB86FC&fire=03DAC6&currStreakNum=BB86FC" width="100%" alt="Streak" />
 </p>
 
 <br>
