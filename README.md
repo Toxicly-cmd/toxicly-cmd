@@ -91,15 +91,13 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="left">
-        <b>◈ system log</b>
-        <p>
-          <code>[OK]</code> gateway initialized<br>
-          <code>[OK]</code> shards operational<br>
-          <code>[OK]</code> falcon engine: peak performance
-        </p>
+      <td width="50%" align="left" valign="top">
+        <b>◈ latest project</b><br>
+        <a href="https://github.com/Toxicly-cmd/crypto-trading-platform">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Toxicly-cmd&repo=crypto-trading-platform&theme=tokyonight&show_owner=true" width="100%" />
+        </a>
       </td>
-      <td align="right">
+      <td width="50%" align="right" valign="top">
         <b>◈ connectivity</b>
         <p>
           <a href="https://discord.com/users/7ox4"><img src="https://img.shields.io/badge/Discord-7ox4-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a><br>
@@ -108,6 +106,13 @@
       </td>
     </tr>
   </table>
+</div>
+
+<br>
+
+<div align="center">
+  <b>◈ system heartbeat</b>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Toxicly-cmd&theme=tokyonight&bg_color=0D1117&color=BB86FC&line=03DAC6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
