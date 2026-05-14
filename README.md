@@ -90,7 +90,7 @@
   <table width="100%">
     <tr>
       <td width="50%" align="left" valign="top">
-        <b>◈ latest project</b><br>
+        <b>◈ latest mission</b><br>
         <a href="https://github.com/Toxicly-cmd/crypto-trading-platform">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Toxicly-cmd&repo=crypto-trading-platform&theme=tokyonight&show_owner=true" width="100%" />
         </a>
@@ -110,7 +110,7 @@
 <br>
 
 <div align="center">
-  <b>◈ system heartbeat</b>
+  <b>◈ toxic.ly heartbeat</b>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Toxicly-cmd&theme=tokyonight&bg_color=0D1117&color=BB86FC&line=03DAC6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
